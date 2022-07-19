@@ -1,4 +1,5 @@
-on:IssueTest
+name: Issue Test
+on:
   issues:
     types: [opened]
 
