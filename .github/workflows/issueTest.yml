@@ -1,4 +1,4 @@
-on:
+on:IssueTest
   issues:
     types: [opened]
 
